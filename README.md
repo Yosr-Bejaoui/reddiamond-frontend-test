@@ -7,11 +7,12 @@ A React 19 application that fetches and displays users from the [JSONPlaceholder
 **Prerequisites:** Node.js ≥ 18
 
 ```bash
+git clone https://github.com/yosr/reddiamond-frontend-test.git
+cd reddiamond-frontend-test
 npm install
 npm start
 ```
 
-Opens [http://localhost:3000](http://localhost:3000) automatically.
 
 ## Project Structure
 
